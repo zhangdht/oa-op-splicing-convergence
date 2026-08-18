@@ -1,0 +1,28 @@
+Compartment-specificity robustness check
+==============================================================
+Leading-edge set: 49 splicing factors concordantly down-regulated in OA cartilage and OP BM-MSC.
+
+Question: is the same coordinated down-regulation present in the
+haematopoietic compartment? Tested per monocyte cohort and jointly.
+
+  GSE56815   down  22/ 49 (44.9%)  binomial P = 0.5682
+  GSE7158    down  27/ 49 (55.1%)  binomial P = 0.5682
+
+  Concordant across BOTH monocyte cohorts: 11/49 (22.4%); expected 25% under independence; P = 0.7445
+
+Interpretation
+--------------------------------------------------------------
+Neither monocyte cohort shows the coordinated down-regulation seen in
+the mesenchymal compartment. Individual splicing factors do move in
+monocytes, but not as a concordant programme, supporting the
+compartment-specific interpretation.
+
+SON across all seven cohorts
+--------------------------------------------------------------
+  GSE114007  OA  knee cartilage       logFC=-0.399  P=0.04627  significant
+  GSE57218   OA  knee/hip cartilage   logFC=-0.071  P=0.1704  ns
+  GSE117999  OA  knee cartilage       logFC=+0.028  P=0.8433  ns
+  GSE169077  OA  knee cartilage       logFC=+0.604  P=0.2693  ns
+  GSE56815   OP  monocyte             logFC=+0.020  P=0.6506  ns
+  GSE7158    OP  monocyte             logFC=-0.351  P=0.01244  significant
+  GSE35958   OP  BM-MSC               logFC=-0.382  P=0.01473  significant
