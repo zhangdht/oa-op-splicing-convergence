@@ -1,0 +1,6 @@
+GWAS Catalog genetics support (alt-full, 1,182,135 association rows scanned)
+candidate genes tracked: 70
+genes with >=1 GWAS hit on bone/OA traits: 17
+  ARHGAP15, ATP8B4, CACNA1I, CDC5L, CTNNBL1, DHX15, FSTL1, HLX, KHDRBS1, MMP9, NCBP1, PRPF38B, QKI, RBM39, SART1, SF3A3, SON
+total bone/OA hit rows: 114
+genes with any GWAS hit (any trait): 17
