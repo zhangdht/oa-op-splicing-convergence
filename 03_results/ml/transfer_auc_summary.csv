@@ -1,0 +1,31 @@
+feature_set,scenario,method,mean_AUC,n_tests
+Splicing,OA internal (LOCO),LASSO,0.721810699588477,4
+Splicing,OA internal (LOCO),RF,0.731185933408156,4
+Splicing,OA internal (LOCO),SVM,0.702424242424242,4
+Splicing,OA cartilage -> OP BM-MSC (same compartment),LASSO,0.3,1
+Splicing,OA cartilage -> OP BM-MSC (same compartment),RF,0.55,1
+Splicing,OA cartilage -> OP BM-MSC (same compartment),SVM,0.4,1
+Splicing,OA cartilage -> OP monocyte (cross compartment),LASSO,0.514982030548068,2
+Splicing,OA cartilage -> OP monocyte (cross compartment),RF,0.479728212039533,2
+Splicing,OA cartilage -> OP monocyte (cross compartment),SVM,0.4901841868823,2
+Splicing,OP BM-MSC -> OA cartilage (reverse),LASSO,0.600362888140666,4
+Splicing,OP BM-MSC -> OA cartilage (reverse),RF,0.479180695847363,4
+Splicing,OP BM-MSC -> OA cartilage (reverse),SVM,0.539711934156379,4
+Splicing,OP monocyte internal (positive ctrl),LASSO,0.55952380952381,1
+Splicing,OP monocyte internal (positive ctrl),RF,0.369047619047619,1
+Splicing,OP monocyte internal (positive ctrl),SVM,0.327380952380952,1
+WGCNA_intersection,OA internal (LOCO),LASSO,0.754175084175084,4
+WGCNA_intersection,OA internal (LOCO),RF,0.698757949869061,4
+WGCNA_intersection,OA internal (LOCO),SVM,0.763853348297793,4
+WGCNA_intersection,OA cartilage -> OP BM-MSC (same compartment),LASSO,0.35,1
+WGCNA_intersection,OA cartilage -> OP BM-MSC (same compartment),RF,0.35,1
+WGCNA_intersection,OA cartilage -> OP BM-MSC (same compartment),SVM,0.5,1
+WGCNA_intersection,OA cartilage -> OP monocyte (cross compartment),LASSO,0.523315363881402,2
+WGCNA_intersection,OA cartilage -> OP monocyte (cross compartment),RF,0.486758760107817,2
+WGCNA_intersection,OA cartilage -> OP monocyte (cross compartment),SVM,0.555750224618149,2
+WGCNA_intersection,OP BM-MSC -> OA cartilage (reverse),LASSO,0.536584362139918,4
+WGCNA_intersection,OP BM-MSC -> OA cartilage (reverse),RF,0.430838009726899,4
+WGCNA_intersection,OP BM-MSC -> OA cartilage (reverse),SVM,0.374197530864198,4
+WGCNA_intersection,OP monocyte internal (positive ctrl),LASSO,0.738095238095238,1
+WGCNA_intersection,OP monocyte internal (positive ctrl),RF,0.592261904761905,1
+WGCNA_intersection,OP monocyte internal (positive ctrl),SVM,0.732142857142857,1
