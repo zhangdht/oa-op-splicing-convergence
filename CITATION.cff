@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "bioinfo05: Compartment-specific transcriptomic convergence between OA and OP - RNA splicing programme axis"
+abstract: >-
+  Multi-omics, hypothesis-free discovery project on osteoarthritis (OA)-osteoporosis (OP)
+  comorbidity. Core finding: transcriptomic convergence between OA and OP is
+  compartment-specific (mesenchymal versus haematopoietic), not disease-specific.
+  OA cartilage and OP bone-marrow mesenchymal stem cells share a concordant
+  down-regulation of the RNA splicing machinery (49 core splicing factors),
+  whereas circulating monocytes follow an independent, partly opposite trajectory.
+  Analysis integrates three complementary null models (pathway-label permutation
+  conditional on marginal significance, within-cohort case-control permutation,
+  and gene-set family clustering) across seven public cohorts (303 samples).
+authors:
+  - family-names: "Zhang"
+    given-names: "Dong"
+    orcid: "https://orcid.org/0009-0006-9000-273X"
+  - family-names: "Wei"
+    given-names: "Yuwei"
+  - family-names: "Li"
+    given-names: "Peng"
+  - family-names: "Chen"
+    given-names: "Kai"
+keywords:
+  - osteoarthritis
+  - osteoporosis
+  - RNA splicing
+  - transcriptomic meta-analysis
+  - tissue compartment
+  - mesenchymal stem cells
+license: MIT
+date-released: "2026-08-18"
