@@ -1,0 +1,30 @@
+Functional annotation summary
+Universe: 10373 genes detected in all seven cohorts
+
+### WGCNA cross-disease shared genes  (input 20 genes, mapped 20 )
+  no GO BP term passed FDR < 0.05
+
+### Core splicing programme  (input 135 genes, mapped 135 )
+  RNA splicing                                         FDR=3.09e-198  n=126/134
+  RNA splicing, via transesterification reactions      FDR=2.66e-195  n=117/134
+  RNA splicing, via transesterification reactions with FDR=2.8e-194  n=116/134
+  mRNA splicing, via spliceosome                       FDR=2.8e-194  n=116/134
+  mRNA processing                                      FDR=9.23e-191  n=125/134
+  mRNA metabolic process                               FDR=2.83e-168  n=128/134
+  regulation of mRNA splicing, via spliceosome         FDR=2.23e-91  n=54/134
+  regulation of RNA splicing                           FDR=1.42e-90  n=62/134
+  regulation of mRNA processing                        FDR=1.45e-84  n=55/134
+  regulation of mRNA metabolic process                 FDR=4.73e-76  n=66/134
+
+### Mesenchymal splicing leading edge  (input 49 genes, mapped 49 )
+  RNA splicing                                         FDR=8.56e-72  n=47/48
+  mRNA processing                                      FDR=1.75e-70  n=47/48
+  RNA splicing, via transesterification reactions      FDR=1.54e-67  n=43/48
+  RNA splicing, via transesterification reactions with FDR=1.58e-65  n=42/48
+  mRNA splicing, via spliceosome                       FDR=1.58e-65  n=42/48
+  mRNA metabolic process                               FDR=6.03e-61  n=47/48
+  regulation of RNA splicing                           FDR=1.75e-33  n=24/48
+  regulation of mRNA splicing, via spliceosome         FDR=1.43e-32  n=21/48
+  regulation of mRNA processing                        FDR=3.07e-30  n=21/48
+  regulation of mRNA metabolic process                 FDR=3.41e-23  n=22/48
+
