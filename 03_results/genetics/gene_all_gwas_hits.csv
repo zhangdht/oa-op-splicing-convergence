@@ -1,0 +1,18 @@
+﻿gene,n_distinct_traits,example_traits
+CDC5L,16,Body mass index or osteoarthritis (pleiotropy) ; Bone mineral density mean ; DXA-Bone mineral density (head) (UKB data field 23226) ; Developmental dysplasia of the hip or hip osteoarthritis ; Estimated bone mineral density
+ARHGAP15,5,Bone mineral density mean ; Estimated bone mineral density ; Femur bone mineral density x serum urate levels interaction ; Heel bone mineral density ; Osteoarthritis
+QKI,4,Estimated bone mineral density ; Heel bone mineral density ; Sex hormone-binding globulin levels adjusted for BMI and heel estimated bone mineral density ; Sex hormone-binding globulin levels and heel estimated bone mineral density
+HLX,4,Bone mineral density variability ; Estimated bone mineral density ; Sex hormone-binding globulin levels adjusted for BMI and heel estimated bone mineral density ; Sex hormone-binding globulin levels and heel estimated bone mineral density
+SF3A3,3,Bone mineral density mean ; Estimated bone mineral density ; Heel bone mineral density
+SART1,2,Heel bone mineral density ; Osteoarthritis of the hip or knee
+MMP9,2,Estimated bone mineral density ; Heel bone mineral density
+RBM39,2,End-stage knee osteoarthritis ; Idiopathic knee osteoarthritis
+PRPF38B,1,Bone mineral density (hip)
+CTNNBL1,1,Bone mineral density
+DHX15,1,Femur total bone mineral density x gut microbiota (genus Lactococcus) interaction
+SON,1,Heel bone mineral density x serum urate levels interaction
+NCBP1,1,Bone mineral density mean
+CACNA1I,1,Bone mineral density mean
+KHDRBS1,1,Bone mineral density variability
+FSTL1,1,Bone mineral density mean
+ATP8B4,1,Fracture of unspecified bones (PheCode 809)
