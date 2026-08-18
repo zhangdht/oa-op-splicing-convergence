@@ -1,0 +1,4 @@
+observed_convergent_pathways	6
+perm_mean	9.52
+perm_sd	2.95
+perm_P	0.9225
