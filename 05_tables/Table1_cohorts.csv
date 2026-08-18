@@ -1,0 +1,8 @@
+Cohort,Disease,Tissue,Platform,Control,Case,Genes
+GSE114007,OA,knee cartilage,RNA-seq,18,20,23710
+GSE57218,OA,knee/hip cartilage,GPL570,33,33,25149
+GSE117999,OA,knee cartilage,GPL10295,10,10,34814
+GSE169077,OA,knee cartilage,GPL96,5,6,13101
+GSE56815,OP,monocyte,GPL96,40,40,13039
+GSE7158,OP,monocyte,GPL570,14,12,21355
+GSE35958,OP,BM-MSC,GPL570,4,5,21355
