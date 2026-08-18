@@ -1,0 +1,38 @@
+Europe PMC 实时检索核查日志
+生成时间: 2026-08-01 23:37:47
+共检索 34 条，成功取回 31 条真实记录
+
+OK    morris2019_ebmd                   PMID:30598549  Nature genetics (2019) An atlas of genetic influences on osteoporosis in humans and mice
+OK    tachmazidou2019_oa                PMID:30664745  Nature genetics (2019) Identification of new therapeutic targets for osteoarthritis through g
+OK    hartley_bmd_oa_mr                 PMID:34897459  International journal of epidemiology (2022) Using multivariable Mendelian randomization to estimate the causal eff
+OK    langfelder2008_wgcna              PMID:19114008  BMC bioinformatics (2008) WGCNA: an R package for weighted correlation network analysis
+OK    hanzelmann2013_gsva               PMID:23323831  BMC bioinformatics (2013) GSVA: gene set variation analysis for microarray and RNA-seq data
+OK    ritchie2015_limma                 PMID:25605792  Nucleic acids research (2015) limma powers differential expression analyses for RNA-sequencing and m
+MISS  liberzon2015_hallmark             TITLE:"The Molecular Signatures Database Hallmark Gene Set Collection" AND SRC:MED
+OK    hao2021_seurat                    PMID:34062119  Cell (2021) Integrated analysis of multimodal single-cell data
+OK    friedman2010_glmnet               PMID:20808728  Journal of statistical software (2010) Regularization Paths for Generalized Linear Models via Coordinate Desc
+OK    fisch2018_gse114007               PMID:30081074  Osteoarthritis and cartilage (2018) Identification of transcription factors responsible for dysregulated n
+OK    benisch2012_gse35958              PMID:23028809  PloS one (2012) The transcriptional profile of mesenchymal stem cell populations in pr
+OK    son_ztkk_syndrome                 PMID:34521999  European journal of human genetics : EJHG (2022) Establishing the phenotypic spectrum of ZTTK syndrome by analysis of 5
+OK    son_splicing_function             PMID:21504830  Molecular cell (2011) SON controls cell-cycle progression by coordinated regulation of RNA s
+OK    splicing_ageing_harries           PMID:21668623  Aging cell (2011) Human aging is characterized by focused changes in gene expression and
+OK    splicing_factor_senescence        PMID:22777358  Oncogene (2013) Downregulation of splicing factor SRSF3 induces p53β, an alternatively
+OK    op_oa_comorbidity                 PMID:8154931   Annals of the rheumatic diseases (1994) The relationship between osteoarthritis and osteoporosis in the genera
+OK    subchondral_bone_oa               PMID:23685840  Nature medicine (2013) Inhibition of TGF-β signaling in mesenchymal stem cells of subchondral
+OK    msc_osteoporosis_differentiation  PMID:23283437  Biological research (2012) In osteoporosis, differentiation of mesenchymal stem cells (MSCs) impr
+OK    oa_chondrocyte_scrnaseq           PMID:38868774  Frontiers in immunology (2024) Single-cell RNA sequencing reveals different chondrocyte states in fem
+OK    chondrocyte_hypertrophy_oa        PMID:22178514  Osteoarthritis and cartilage (2012) Chondrocyte hypertrophy and osteoarthritis: role in initiation and pro
+OK    stouffer_meta_zscore              PMID:9520501   Bioinformatics (Oxford, England) (1998) Combining evidence using p-values: application to sequence homology se
+OK    gwas_catalog                      PMID:30445434  Nucleic acids research (2019) The NHGRI-EBI GWAS Catalog of published genome-wide association studie
+OK    batch_effect_combat               PMID:16632515  Biostatistics (Oxford, England) (2007) Adjusting batch effects in microarray expression data using empirical 
+OK    benjamini_hochberg                PMID:11682119  Behavioural brain research (2001) Controlling the false discovery rate in behavior genetics research
+OK    bone_cartilage_crosstalk          PMID:27652499  Nature reviews. Rheumatology (2016) Changes in the osteochondral unit during osteoarthritis: structure, fu
+OK    spliceosome_bone_osteoblast       PMID:30696066  International journal of molecular sciences (2019) Mettl3 Regulates Osteogenic Differentiation and Alternative Splicing o
+MISS  srsf_chondrocyte                  ((TITLE:"SRSF" OR TITLE:"serine/arginine") AND (TITLE:"chondrocyte" OR TITLE:"cartilage")) AND SRC:MED
+OK    nuclear_speckle                   PMID:12923522  Nature reviews. Molecular cell biology (2003) Nuclear speckles: a model for nuclear organelles
+OK    geo_database                      PMID:23193258  Nucleic acids research (2013) NCBI GEO: archive for functional genomics data sets--update
+MISS  oa_transcriptome_meta             (TITLE:"osteoarthritis" AND TITLE:"transcriptome" AND (TITLE:"meta-analysis" OR TITLE:"integrative")) AND SRC:MED
+OK    op_monocyte_transcriptome         PMID:38652170  Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research (2024) Single-cell RNA sequencing reveals that an imbalance in monocyte subse
+OK    osteoclast_monocyte_precursor     PMID:8756585   Endocrinology (1996) The human osteoclast precursor circulates in the monocyte fraction
+OK    tissue_heterogeneity_transcriptomics  PMID:15131119  The Journal of biological chemistry (2004) Intrinsic heterogeneity in adipose tissue of fat-specific insulin rece
+OK    reproducibility_biomarker_signature  PMID:24305008  Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer (2014) Validation of a histology-independent prognostic gene signature for ea
