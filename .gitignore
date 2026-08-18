@@ -1,0 +1,28 @@
+# Intermediate objects (large R objects, reproducible from scripts)
+03_results/intermediate/
+
+# Large raw data (downloadable from public sources, see README)
+01_data/gwas/
+01_data/sc/
+01_data/ref/
+01_data/geo/
+
+# Logs and scratch
+07_logs/
+*.log
+
+# Debug / scratch scripts
+_dbg_*
+_fulltext.py
+_inspect_v2.py
+_probe_sc.py
+_refs_extract.py
+
+# Word backup artifacts
+*.bak*
+*.tmp
+~$*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
