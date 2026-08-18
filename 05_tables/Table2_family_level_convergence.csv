@@ -1,0 +1,5 @@
+Comparison,n families,n sig A,n sig B,Observed,Expected,Enrichment,Perm P,Splice families
+OA array vs OA RNA-seq (positive ctrl),2158,733,135,48,22.98,2.09,2e-04,0
+OA cartilage vs OP BM-MSC (mesenchymal),2168,580,412,66,55.07,1.2,0.004199,5
+OA cartilage vs OP monocyte (cross-compartment),2168,579,82,6,10.96,0.55,0.998,0
+OA vs OP (pooled),2168,575,62,6,8.27,0.73,0.9308,0
