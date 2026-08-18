@@ -1,0 +1,8 @@
+﻿cohort,disease,tissue,logFC,P,note
+GSE114007,OA,knee cartilage,-0.399,0.04627,significant
+GSE57218,OA,knee/hip cartilage,-0.071,0.1704,ns
+GSE117999,OA,knee cartilage,0.028,0.8433,ns
+GSE169077,OA,knee cartilage,0.604,0.2693,ns
+GSE56815,OP,monocyte,0.020,0.6506,ns
+GSE7158,OP,monocyte,-0.351,0.01244,significant
+GSE35958,OP,BM-MSC,-0.382,0.01473,significant
