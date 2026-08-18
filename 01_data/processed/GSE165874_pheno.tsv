@@ -1,0 +1,19 @@
+run	sample	title	characteristics	cell_line	treatment	replicate	sex	group	series
+YG-AH-15_S15_L002_R1_001	GSM5051896	NA18855 Strain Replicate 3	cell line: NA18855 | treatment: Cyclic Tensile Strain | technical replicate: 3 | Sex: F	NA18855	Cyclic Tensile Strain	3	F	Strain	GSE165874
+YG-AH-13_S13_L002_R1_001	GSM5051908	NA19160 Strain Replicate 3	cell line: NA19160 | treatment: Cyclic Tensile Strain | technical replicate: 3 | Sex: M	NA19160	Cyclic Tensile Strain	3	M	Strain	GSE165874
+YG-AH-18_S18_L002_R1_001	GSM5051899	NA18856 Control Replicate 3	cell line: NA18856 | treatment: Control | technical replicate: 3 | Sex: M	NA18856	Control	3	M	Control	GSE165874
+YG-AH-06_S6_L002_R1_001	GSM5051897	NA18856 Control Replicate 1	cell line: NA18856 | treatment: Control | technical replicate: 1 | Sex: M	NA18856	Control	1	M	Control	GSE165874
+YG-AH-09_S9_L002_R1_001	GSM5051895	NA18855 Strain Replicate 2	cell line: NA18855 | treatment: Cyclic Tensile Strain | technical replicate: 2 | Sex: F	NA18855	Cyclic Tensile Strain	2	F	Strain	GSE165874
+YG-AH-11_S11_L002_R1_001	GSM5051901	NA18856 Strain Replicate 2	cell line: NA18856 | treatment: Cyclic Tensile Strain | technical replicate: 2 | Sex: M	NA18856	Cyclic Tensile Strain	2	M	Strain	GSE165874
+YG-AH-14_S14_L002_R1_001	GSM5051905	NA19160 Control Replicate 3	cell line: NA19160 | treatment: Control | technical replicate: 3 | Sex: M	NA19160	Control	3	M	Control	GSE165874
+YG-AH-10_S10_L002_R1_001	GSM5051892	NA18855 Control Replicate 2	cell line: NA18855 | treatment: Control | technical replicate: 2 | Sex: F	NA18855	Control	2	F	Control	GSE165874
+YG-AH-07_S7_L002_R1_001	GSM5051907	NA19160 Strain Replicate 2	cell line: NA19160 | treatment: Cyclic Tensile Strain | technical replicate: 2 | Sex: M	NA19160	Cyclic Tensile Strain	2	M	Strain	GSE165874
+YG-AH-03_S3_L002_R1_001	GSM5051894	NA18855 Strain Replicate 1	cell line: NA18855 | treatment: Cyclic Tensile Strain | technical replicate: 1 | Sex: F	NA18855	Cyclic Tensile Strain	1	F	Strain	GSE165874
+YG-AH-05_S5_L002_R1_001	GSM5051900	NA18856 Strain Replicate 1	cell line: NA18856 | treatment: Cyclic Tensile Strain | technical replicate: 1 | Sex: M	NA18856	Cyclic Tensile Strain	1	M	Strain	GSE165874
+YG-AH-01_S1_L002_R1_001	GSM5051906	NA19160 Strain Replicate 1	cell line: NA19160 | treatment: Cyclic Tensile Strain | technical replicate: 1 | Sex: M	NA19160	Cyclic Tensile Strain	1	M	Strain	GSE165874
+YG-AH-08_S8_L002_R1_001	GSM5051904	NA19160 Control Replicate 2	cell line: NA19160 | treatment: Control | technical replicate: 2 | Sex: M	NA19160	Control	2	M	Control	GSE165874
+YG-AH-02_S2_L002_R1_001	GSM5051903	NA19160 Control Replicate 1	cell line: NA19160 | treatment: Control | technical replicate: 1 | Sex: M	NA19160	Control	1	M	Control	GSE165874
+YG-AH-04_S4_L002_R1_001	GSM5051891	NA18855 Control Replicate 1	cell line: NA18855 | treatment: Control | technical replicate: 1 | Sex: F	NA18855	Control	1	F	Control	GSE165874
+YG-AH-17_S17_L002_R1_001	GSM5051902	NA18856 Strain Replicate 3	cell line: NA18856 | treatment: Cyclic Tensile Strain | technical replicate: 3 | Sex: M	NA18856	Cyclic Tensile Strain	3	M	Strain	GSE165874
+YG-AH-12_S12_L002_R1_001	GSM5051898	NA18856 Control Replicate 2	cell line: NA18856 | treatment: Control | technical replicate: 2 | Sex: M	NA18856	Control	2	M	Control	GSE165874
+YG-AH-16_S16_L002_R1_001	GSM5051893	NA18855 Control Replicate 3	cell line: NA18855 | treatment: Control | technical replicate: 3 | Sex: F	NA18855	Control	3	F	Control	GSE165874
