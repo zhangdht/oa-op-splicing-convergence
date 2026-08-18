@@ -1,0 +1,5 @@
+comparison,n_family,sigA,sigB,observed,expected,fold,P_perm,n_splice_conv
+P1 positive control: OA RNA-seq vs OA microarray,2158,733,135,48,22.98,2.09,2e-04,0
+A: OA cartilage vs OP BM-MSC (mesenchymal),2168,580,412,66,55.07,1.2,0.004199,5
+P4: OA cartilage vs OP monocyte (haematopoietic),2168,579,82,6,10.96,0.55,0.998,0
+MAIN: OA vs OP pooled,2168,575,62,6,8.27,0.73,0.9308,0
