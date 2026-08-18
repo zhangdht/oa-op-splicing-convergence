@@ -1,0 +1,5 @@
+Splicing genes concordantly down in OA cartilage and OP BM-MSC: 49
+Of these, also down in OP monocytes (GSE56815): 22/49 (44.9%)
+Binomial test vs 50%: P = 0.5682
+Interpretation: a proportion at or below 50% indicates the mesenchymal splicing
+down-regulation is not mirrored in the haematopoietic compartment.
