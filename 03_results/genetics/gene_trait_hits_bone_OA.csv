@@ -1,0 +1,115 @@
+﻿gene,disease_trait,mapped_trait,p_value,pubmed_id,strongest_snp_risk_allele,risk_allele_freq,or_or_beta
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-21,28869591,rs113166754-C,0.937108,0.0983851
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-8,28869591,rs144647275-C,0.515503,0.028701
+QKI,Heel bone mineral density,heel bone mineral density,4E-6,28869591,rs73029263-A,0.868049,0.032069
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-26,28869591,rs113166754-C,0.937322,0.100259
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-18,28869591,rs144647275-C,0.512885,0.0396022
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-47,28869591,rs113166754-C,0.937222,0.0996059
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-23,28869591,rs144647275-C,0.514106,0.0344684
+QKI,Heel bone mineral density,heel bone mineral density,9E-11,28869591,rs73029263-A,0.868331,0.0293316
+CDC5L,Osteoarthritis of the hand,"osteoarthritis, hand",1E-6,28855172,rs7770034-A,0.48,0.5
+SF3A3,Heel bone mineral density,heel bone mineral density,8E-10,28869591,rs4360494-G,0.446592,0.0200062
+CDC5L,Total body bone mineral density,bone tissue density,1E-13,29304378,rs7741085-T,0.5905,0.0465
+CDC5L,Total body bone mineral density,bone tissue density,2E-13,29304378,rs7741085-T,0.5874,0.0423
+QKI,Heel bone mineral density,heel bone mineral density,5E-32,30048462,rs4709746-?,NR,0.0342644
+QKI,Heel bone mineral density,heel bone mineral density,8E-32,30048462,rs73029263-?,NR,0.0341014
+ARHGAP15,Heel bone mineral density,heel bone mineral density,2E-13,30048462,rs143768697-?,NR,0.0168422
+SF3A3,Heel bone mineral density,heel bone mineral density,3E-22,30048462,rs4360494-?,NR,0.0200841
+CDC5L,Heel bone mineral density,heel bone mineral density,4E-68,30048462,rs144647275-?,NR,0.0352601
+CDC5L,Heel bone mineral density,heel bone mineral density,1E-108,30048462,rs113166754-?,NR,0.0913695
+CDC5L,Heel bone mineral density,heel bone mineral density,3E-11,30048462,rs79036082-?,NR,0.0265978
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-10,30048462,rs491616-?,NR,0.024914
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-12,30048462,rs575445-?,NR,0.0143973
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-9,30048462,rs11442031-?,NR,0.0126953
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-28,30048462,rs1283935-?,NR,0.0402605
+CDC5L,Heel bone mineral density,heel bone mineral density,2E-36,30048462,rs112360218-?,NR,0.0325713
+PRPF38B,Bone mineral density (hip),hip bone mineral density,8E-6,30172743,rs3006864-?,NR,
+SART1,Heel bone mineral density,heel bone mineral density,1E-9,30048462,rs5792377-?,NR,0.0136392
+ARHGAP15,Heel bone mineral density,heel bone mineral density,3E-11,30598549,rs10084164-G,0.65658,0.0127899
+CDC5L,Heel bone mineral density,heel bone mineral density,4E-51,30598549,rs764396-C,0.462285,0.0279256
+QKI,Heel bone mineral density,heel bone mineral density,3E-31,30598549,rs73029263-A,0.867248,0.0315318
+MMP9,Heel bone mineral density,heel bone mineral density,3E-9,30598549,rs8121146-C,0.46198,0.0110673
+CDC5L,Osteoarthritis,osteoarthritis,3E-8,30664745,rs12154055-G,0.61,1.03
+SF3A3,Heel bone mineral density,heel bone mineral density,4E-29,30598549,rs4360494-G,0.443737,0.0206899
+CDC5L,Osteoarthritis,osteoarthritis,6E-7,22763110,rs10948172-G,0.29,1.08
+CDC5L,Lumbar spine bone mineral density,bone tissue density,6E-11,22504420,rs11755164-T,0.4,0.04
+CTNNBL1,Bone mineral density,bone tissue density,1E-6,17903296,rs4811196-?,NR,
+ARHGAP15,Heel bone mineral density,heel bone mineral density,5E-12,30595370,rs10084164-?,NR,
+QKI,Heel bone mineral density,heel bone mineral density,7E-32,30595370,rs73029263-?,NR,
+CDC5L,Heel bone mineral density,heel bone mineral density,1E-12,30595370,rs658710-?,NR,
+CDC5L,Heel bone mineral density,heel bone mineral density,5E-60,30595370,rs1338907-?,NR,
+CDC5L,Femoral neck bone mineral density and trunk fat mass adjusted by trunk lean mass,"femoral neck bone mineral density, fat pad mass",5E-7,32239398,rs562645309-T,NR,
+DHX15,Femur total bone mineral density x gut microbiota (genus Lactococcus) interaction,"gut microbiome measurement, bone tissue density",1E-8,34779240,rs35190601-A,NR,0.833
+ARHGAP15,Femur bone mineral density x serum urate levels interaction,"urate measurement, bone tissue density",2E-8,34046847,rs77327606-?,NR,1.45901
+ARHGAP15,Femur bone mineral density x serum urate levels interaction,"urate measurement, bone tissue density",1E-9,34046847,rs77327606-?,NR,1.22386
+SON,Heel bone mineral density x serum urate levels interaction,"heel bone mineral density, urate measurement",1E-9,34046847,rs144380101-?,NR,0.411854
+RBM39,End-stage knee osteoarthritis,"osteoarthritis, knee",1E-8,36000784,rs532201406-CAAAAA,0.26,0.925
+CDC5L,Osteoarthritis,osteoarthritis,4E-8,36411363,rs4714791-?,NR,0.9704455
+CDC5L,Osteoarthritis,osteoarthritis,9E-9,36411363,rs6929734-?,NR,0.97
+CDC5L,Osteoarthritis,osteoarthritis,1E-9,36411363,rs4714791-T,0.45,0.995
+CDC5L,Osteoarthritis,osteoarthritis,2E-8,36411363,rs4714791-?,NR,0.9713193
+CDC5L,Osteoarthritis,osteoarthritis,3E-9,36411363,rs7770034-?,NR,0.97
+RBM39,Idiopathic knee osteoarthritis,"osteoarthritis, knee",2E-8,37247657,rs532201406-?,0.27,0.96
+CDC5L,Body mass index or osteoarthritis (pleiotropy),"body mass index, osteoarthritis",5E-14,36889626,rs12200892-T,NR,
+CDC5L,Surgical hip osteoarthritis,"osteoarthritis, hip",4E-14,36376028,rs199860790-A,0.303,1.09
+CDC5L,Osteoarthritis,osteoarthritis,2E-8,36411363,rs4714791-?,NR,0.9946949
+CDC5L,Osteoarthritis,osteoarthritis,1E-7,36411363,rs4714791-?,NR,0.963563
+CDC5L,Bone mineral density mean,bone tissue density,5E-8,37500982,rs112961818-?,NR,
+SF3A3,Bone mineral density mean,bone tissue density,1E-145,37500982,rs191153466-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs1561542-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs116072987-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs114411723-?,NR,
+NCBP1,Bone mineral density mean,bone tissue density,1E-53,37500982,rs770824491-?,NR,
+CACNA1I,Bone mineral density mean,bone tissue density,3E-16,37500982,rs551528912-?,NR,
+KHDRBS1,Bone mineral density variability,bone tissue density,2E-9,37500982,rs11589748-?,NR,
+CDC5L,DXA-Bone mineral density (head) (UKB data field 23226),bone tissue density,4E-13,41206123,rs111810959-A,0.3333,0.0638
+SF3A3,Bone mineral density mean,bone tissue density,5E-30,37500982,rs144980945-?,NR,
+CDC5L,Osteoarthritis,osteoarthritis,3E-13,40205036,rs13215163-A,0.0493,0.95265734
+ARHGAP15,Osteoarthritis,osteoarthritis,5E-10,40205036,rs13409451-A,0.634,1.0185703
+CDC5L,Estimated bone mineral density,bone tissue density,1E-14,42432248,rs2817122-C,0.78,0.02
+CDC5L,Estimated bone mineral density,bone tissue density,3E-18,42432248,rs578789-C,0.81,0.02
+CDC5L,Estimated bone mineral density,bone tissue density,6E-76,42432248,rs10948168-G,0.47,0.03
+QKI,Estimated bone mineral density,bone tissue density,9E-38,42432248,rs73029263-A,0.87,0.03
+SF3A3,Estimated bone mineral density,bone tissue density,9E-27,42432248,rs4360494-G,0.45,0.02
+MMP9,Estimated bone mineral density,bone tissue density,7E-11,42432248,rs8121146-C,0.46,0.01
+ARHGAP15,Estimated bone mineral density,bone tissue density,9E-13,42432248,rs34628456-C,0.68,0.01
+HLX,Estimated bone mineral density,bone tissue density,4E-15,42432248,rs4846687-A,0.36,0.01
+CDC5L,Bone mineral density mean,bone tissue density,2E-9,37500982,rs567659353-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,5E-9,37500982,rs113166754-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,6E-9,37500982,rs56078331-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,1E-9,37500982,rs78121766-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,5E-9,37500982,rs79968760-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,1E-8,37500982,rs112748697-?,NR,
+HLX,Bone mineral density variability,bone tissue density,4E-8,37500982,rs140679181-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs114081378-?,NR,
+CDC5L,Osteoarthritis,osteoarthritis,2E-13,40205036,rs6929734-T,0.5564,1.0219371
+CDC5L,Osteoarthritis (hip),"osteoarthritis, hip",3E-14,40205036,rs12154055-A,0.3885,0.9587739
+SART1,Osteoarthritis of the hip or knee,"osteoarthritis, hip, osteoarthritis, knee",6E-10,40205036,rs79177013-A,0.0533,0.94582283
+CDC5L,"Osteoporosis, osteopenia and pathological fracture (PheCode 743)",bone disorder,4E-12,39024449,rs227831-A,0.4062,0.05537
+CDC5L,Developmental dysplasia of the hip or hip osteoarthritis,"osteoarthritis, hip, developmental dysplasia of the hip",2E-12,41912496,rs1384547-T,0.335,0.936
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs76089189-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs78776446-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs75241114-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs143910373-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs79836088-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs74478510-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs114260278-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs79256433-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs79246999-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs116162564-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs76395355-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs115457883-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs114960420-?,NR,
+ARHGAP15,Bone mineral density mean,bone tissue density,1E-300,37500982,rs80055389-?,NR,
+FSTL1,Bone mineral density mean,bone tissue density,1E-300,37500982,rs76311806-?,NR,
+FSTL1,Bone mineral density mean,bone tissue density,1E-300,37500982,rs78894478-?,NR,
+HLX,Sex hormone-binding globulin levels and heel estimated bone mineral density,"heel bone mineral density, sex hormone-binding globulin measurement",7E-15,37615194,rs2784250-?,NR,
+CDC5L,Bone mineral density mean,bone tissue density,2E-9,37500982,rs17335164-?,NR,
+QKI,Sex hormone-binding globulin levels and heel estimated bone mineral density,"heel bone mineral density, sex hormone-binding globulin measurement",6E-43,37615194,rs4709746-?,NR,
+QKI,Sex hormone-binding globulin levels adjusted for BMI and heel estimated bone mineral density,"heel bone mineral density, sex hormone-binding globulin measurement",6E-52,37615194,rs4709746-?,NR,
+HLX,Sex hormone-binding globulin levels adjusted for BMI and heel estimated bone mineral density,"heel bone mineral density, sex hormone-binding globulin measurement",2E-17,37615194,rs1335930-?,NR,
+CDC5L,Osteoarthritis of the hip or knee (with total joint replacement),"osteoarthritis, hip, total joint arthroplasty, osteoarthritis, knee",1E-13,40205036,rs13215163-A,0.0517,0.90212697
+CDC5L,Osteoarthritis (with total hip replacement),"osteoarthritis, hip, total hip arthroplasty",2E-10,40205036,rs12154055-A,0.3907,0.9545646
+CDC5L,Osteoarthritis (with total hip replacement),"osteoarthritis, hip, total hip arthroplasty",3E-11,40205036,rs13215163-A,0.0501,0.8944914
+ATP8B4,Fracture of unspecified bones (PheCode 809),bone fracture,1E-11,39024449,rs767437681-T,0.9996,1.896
+CDC5L,"Osteoporosis, osteopenia and pathological fracture (PheCode 743)",bone disorder,1E-11,39024449,rs227831-A,0.3561,0.05444
