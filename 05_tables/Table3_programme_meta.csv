@@ -1,0 +1,9 @@
+Programme,Disease,n cohorts,Meta Z,Meta P,Mean Hedges g
+Splicing,OA,4,-2.53,1.1e-02,-0.41
+Osteoblast,OA,4,1.65,9.9e-02,0.32
+Chondro,OA,4,1.12,2.6e-01,0.22
+Ribosome,OA,4,-1.38,1.7e-01,-0.22
+Splicing,OP,3,-0.46,6.5e-01,-0.38
+Osteoblast,OP,3,0.14,8.9e-01,-0.01
+Chondro,OP,3,0.77,4.4e-01,0.1
+Ribosome,OP,3,-0.13,9.0e-01,-0.13
