@@ -1,0 +1,8 @@
+cohort,disease,tissue,rho_with_SON_in_set,rho_SON_excluded,bg_rho_mean,bg_rho_q975,emp_P
+GSE114007,OA,knee cartilage,0.358,0.358,-0.494,0.623,0.9361
+GSE57218,OA,knee/hip cartilage,0.59,0.577,0.083,0.342,0.001996
+GSE117999,OA,knee cartilage,0.576,0.538,-0.037,0.274,0.001996
+GSE169077,OA,knee cartilage,0.827,0.827,0.864,0.918,1
+GSE56815,OP,monocyte,0.372,0.357,-0.061,0.277,0.005988
+GSE7158,OP,monocyte,0.741,0.72,0.224,0.604,0.003992
+GSE35958,OP,BM-MSC,0.7,0.7,0.325,0.867,0.1996
