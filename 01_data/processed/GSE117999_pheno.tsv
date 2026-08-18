@@ -1,0 +1,21 @@
+sample	title	characteristics	age	sex	bmi	donor_id	group	series
+GSM3316962	001 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 37 | Sex: Female | bmi (kg/m2): 21.92	37	F	21.92	001	Normal	GSE117999
+GSM3316963	002 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 45 | Sex: Male | bmi (kg/m2): 28.84	45	M	28.84	002	Normal	GSE117999
+GSM3316964	003 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 62 | Sex: Female | bmi (kg/m2): 27.76	62	F	27.76	003	Normal	GSE117999
+GSM3316965	004 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 58 | Sex: Female | bmi (kg/m2): 20.52	58	F	20.52	004	Normal	GSE117999
+GSM3316966	005 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 31 | Sex: Female | bmi (kg/m2): 24.27	31	F	24.27	005	Normal	GSE117999
+GSM3316967	007 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 53 | Sex: Male | bmi (kg/m2): 26.62	53	M	26.62	007	Normal	GSE117999
+GSM3316968	008 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 50 | Sex: Male | bmi (kg/m2): 28.48	50	M	28.48	008	Normal	GSE117999
+GSM3316969	009 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 65 | Sex: Female | bmi (kg/m2): 27.07	65	F	27.07	009	Normal	GSE117999
+GSM3316971	011 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 43 | Sex: Male | bmi (kg/m2): 34.43	43	M	34.43	011	Normal	GSE117999
+GSM3316973	013 arthroscopic partial meniscectomy	tissue: Knee cartilage | age (years): 53 | Sex: Male | bmi (kg/m2): 26.32	53	M	26.32	013	Normal	GSE117999
+GSM3316974	102 osteoarthritis	tissue: Knee cartilage | age (years): 57 | Sex: Male | bmi (kg/m2): 31.80	57	M	31.8	102	OA	GSE117999
+GSM3316975	103 osteoarthritis	tissue: Knee cartilage | age (years): 64 | Sex: Female | bmi (kg/m2): 28.72	64	F	28.72	103	OA	GSE117999
+GSM3316977	105 osteoarthritis	tissue: Knee cartilage | age (years): 62 | Sex: Female | bmi (kg/m2): 46.51	62	F	46.51	105	OA	GSE117999
+GSM3316978	106 osteoarthritis	tissue: Knee cartilage | age (years): 80 | Sex: Male | bmi (kg/m2): 30.42	80	M	30.42	106	OA	GSE117999
+GSM3316979	107 osteoarthritis	tissue: Knee cartilage | age (years): 67 | Sex: Female | bmi (kg/m2): 38.62	67	F	38.62	107	OA	GSE117999
+GSM3316981	109 osteoarthritis	tissue: Knee cartilage | age (years): 64 | Sex: Female | bmi (kg/m2): 44.62	64	F	44.62	109	OA	GSE117999
+GSM3316982	111 osteoarthritis	tissue: Knee cartilage | age (years): 61 | Sex: Male | bmi (kg/m2): 31.46	61	M	31.46	111	OA	GSE117999
+GSM3316983	112 osteoarthritis	tissue: Knee cartilage | age (years): 62 | Sex: Female | bmi (kg/m2): 46.05	62	F	46.05	112	OA	GSE117999
+GSM3316984	113 osteoarthritis	tissue: Knee cartilage | age (years): 79 | Sex: Female | bmi (kg/m2): 31.28	79	F	31.28	113	OA	GSE117999
+GSM3316985	114 osteoarthritis	tissue: Knee cartilage | age (years): 64 | Sex: Female | bmi (kg/m2): 37.29	64	F	37.29	114	OA	GSE117999
