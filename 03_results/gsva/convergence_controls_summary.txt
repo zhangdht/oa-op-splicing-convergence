@@ -1,0 +1,37 @@
+Convergence controls for OP-OA pathway-level analysis
+Generated: 2026-08-01 23:11:32 
+
+                                                            comparison
+1                                             MAIN: OA(all) vs OP(all)
+2 P1: OA RNA-seq vs OA microarray (same disease/tissue, diff platform)
+3                                P1b: GSE114007 vs GSE57218 (OA vs OA)
+4                                P1c: GSE57218 vs GSE169077 (OA vs OA)
+5        P2: OP monocyte vs OP BM-MSC (same disease, DIFFERENT tissue)
+6                                        P3: OA(all) vs OP BM-MSC only
+7                                      P4: OA(all) vs OP monocyte only
+  n_pathway nsig_A nsig_B observed perm_mean enrichment       perm_P
+1      5059   1008     89        6    9.6485  0.6218583 0.9335332334
+2      5055   1305    232       86   28.1120  3.0591918 0.0004997501
+3      4882   1252    239       57   26.4370  2.1560691 0.0004997501
+4      4559    221    224       12    5.5605  2.1580793 0.0104947526
+5      5136    131     13        0    0.1095  0.0000000 1.0000000000
+6      5059   1008     13        4    1.2005  3.3319450 0.0299850075
+7      5059   1008    128        6   13.7695  0.4357457 0.9970014993
+  spearman_rho    spearman_P                                   setA
+1  -0.01958752  1.636246e-01 GSE114007+GSE57218+GSE117999+GSE169077
+2   0.32785142 5.780481e-127                              GSE114007
+3   0.14327634  8.275828e-24                              GSE114007
+4   0.12996968  1.244923e-18                               GSE57218
+5  -0.03420735  1.422145e-02                       GSE56815+GSE7158
+6   0.14189602  3.617038e-24 GSE114007+GSE57218+GSE117999+GSE169077
+7  -0.06517609  3.491781e-06 GSE114007+GSE57218+GSE117999+GSE169077
+                          setB   perm_sd
+1    GSE56815+GSE7158+GSE35958 2.8964016
+2 GSE57218+GSE117999+GSE169077 4.8955530
+3                     GSE57218 4.7933829
+4                    GSE169077 2.2737468
+5                     GSE35958 0.3249039
+6                     GSE35958 1.0657709
+7             GSE56815+GSE7158 3.4283008
+
+Negative control (random disease relabelling), enrichment mean =  1.822  sd =  1.844 
