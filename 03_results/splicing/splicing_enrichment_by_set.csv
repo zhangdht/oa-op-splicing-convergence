@@ -1,0 +1,6 @@
+set,n_set,n_splice,pct_splice,expected,fold,P_hyper,FDR
+"A: mesenchymal shared (OA+MSC, same dir)",87,10,11.5,0.6,17.1,1.25e-10,6.25e-10
+B: haematopoietic antagonistic (OA vs MONO),10,0,0,0.1,0,1,1
+OA significant only,872,17,1.9,5.9,2.9,1.12e-05,2.8e-05
+OP BM-MSC significant only,8,0,0,0.1,0,1,1
+OP monocyte significant,128,0,0,0.9,0,1,1
