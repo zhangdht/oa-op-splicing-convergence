@@ -1,0 +1,22 @@
+Within-cohort case/control label permutation null (500 permutations)
+Generated: 2026-08-01 23:15:08 
+
+  comparison obs_nconv null_nconv_mean null_nconv_q95     P_nconv     obs_rho
+1       MAIN         5               0              0 0.001996008 -0.00637408
+2         P3         3               0              0 0.001996008  0.14129450
+3         P4         6               0              0 0.001996008 -0.05119604
+4         P1         8               0              0 0.001996008  0.35795632
+5         P2         0               0              0 1.000000000 -0.03420735
+  null_rho_mean null_rho_sd      P_rho       Z_rho
+1 -0.0031695746   0.1213794 0.95209581 -0.02640073
+2  0.0005731069   0.1274975 0.28143713  1.10371858
+3 -0.0044563637   0.1177176 0.62075848 -0.39704905
+4 -0.0017585736   0.1638489 0.03792415  2.19540594
+5  0.0056613544   0.1408075 0.78043912 -0.28314330
+
+Interpretation key:
+  MAIN = OA(all) vs OP(all)
+  P3 = OA vs OP BM-MSC (mesenchymal)
+  P4 = OA vs OP monocyte (haematopoietic)
+  P1 = OA RNA-seq vs OA microarray (positive control)
+  P2 = OP monocyte vs OP BM-MSC
